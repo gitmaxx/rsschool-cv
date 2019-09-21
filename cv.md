@@ -5,10 +5,12 @@ Russia, Moscow
 
 ## Contact information
 
-**e-mail:** mxmrus@gmail.com
+**e-mail:** mxmrus@gmail.com  
 **Telegram:** @telemxm
 
 ## Summary
+
+ In a year my goal is to be able to code as middle programmer and to have a practice in ML/AI
 
 ## Skills
 

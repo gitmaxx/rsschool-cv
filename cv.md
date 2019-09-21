@@ -1,14 +1,14 @@
 ﻿
 # Akulinichev Maxim
+
 Russia, Moscow
+
 ## Contact information
 
 **e-mail:** mxmrus@gmail.com
 **Telegram:** @telemxm
 
 ## Summary
-
-
 
 ## Skills
 
@@ -21,19 +21,12 @@ Russia, Moscow
 Only casual programming experience
 
 ## Education
- 
- - Moscow State University
- `Applied Mathematics and Cybernetics`
- - CS50 Harvard Online Course
- - Introduction to Machine Learning, Coursera
 
+- Moscow State University
+ `Applied Mathematics and Cybernetics`
+- CS50 Harvard Online Course
+- Introduction to Machine Learning, Coursera
 
 ## Languages
 
 **Upper-Intermediate English**
-
-
-
-
-
-

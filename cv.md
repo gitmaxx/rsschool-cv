@@ -24,7 +24,7 @@ Only casual programming experience
 
 ## Education
 
-- Moscow State University
+- Moscow State University  
  `Applied Mathematics and Cybernetics`
 - CS50 Harvard Online Course
 - Introduction to Machine Learning, Coursera

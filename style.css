@@ -3,6 +3,15 @@
   max-width: 1024px;  
 }
 
+.header {
+  display: flex;
+  margin-top: 10px;
+}
+
+.header-text {
+  margin: 50px 0 0 20px;
+}
+
 h2 {
   border-bottom: 1px solid hsla(0, 0%, 50%, 0.33);  
 }

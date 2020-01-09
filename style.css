@@ -1,0 +1,43 @@
+.container {
+  margin: 0 auto;
+  max-width: 1024px;  
+}
+
+.header {
+  display: flex;
+  margin-top: 10px;
+}
+
+.header-text {
+  margin: 50px 0 0 20px;
+}
+
+h2 {
+  border-bottom: 1px solid hsla(0, 0%, 50%, 0.33);  
+}
+
+h1 {
+  border-bottom: 1px solid hsla(0, 0%, 50%, 0.33);  
+}
+
+.specialization {
+  background-color: rgba(27, 31, 35, 0.05);
+}
+
+p {
+  font-size: 16px;
+}
+
+li.skill {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+li.edu {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.specialization {
+  font-size: 14px;
+}
